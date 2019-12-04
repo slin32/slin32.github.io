@@ -1,12 +1,12 @@
 selectLang:
   en: "Select Your Language"
-  es: "Seleccionar El Idioma"
+  zh: "选择您的语言"
 relatedPosts:
   en: "Related Posts"
-  es: "Artículos Relacionados"
+  zh: "相关的文章"
 differentLanguage:
   en: "Read this page in a different language"
-  es: "Lea esta página en un idioma diferente"
+  zh: "用中文来查看此页。"
 viewIn:
   en: "View in"
-  es: "Ver en"
+  zh: "查看"
