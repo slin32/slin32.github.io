@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Welcome to my blog!
+title: Welcome to my technology blog!
 lang: en
 lang-ref: welcome-to-my-blog
 ---
