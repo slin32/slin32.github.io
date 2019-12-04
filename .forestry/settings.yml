@@ -17,14 +17,14 @@ sections:
   create: all
   match: "*"
 - type: heading
-  label: Español
+  label: 中文
 - type: directory
-  path: es/_posts
+  path: zh/_posts
   label: Posts
   create: all
   match: "**/*"
 - type: directory
-  path: es
+  path: zh
   label: Pages
   create: all
   match: "*"
