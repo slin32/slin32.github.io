@@ -1,0 +1,27 @@
+{
+  "config": {
+    "branch": "master",
+    "domain": "https://slin32.github.io",
+    "email": "leolinbao@gmail.com",
+    "platform": "github",
+    "privateKey": "",
+    "repository": "slin32.github.io",
+    "token": "2e7571cacb0c01aede1fdbf2d07b983dadfca261",
+    "username": "slin32"
+  },
+  "comment": {
+    "commentPlatform": "gitalk",
+    "disqusSetting": {
+      "api": "",
+      "apikey": "",
+      "shortname": ""
+    },
+    "gitalkSetting": {
+      "clientId": "",
+      "clientSecret": "",
+      "owner": "",
+      "repository": ""
+    },
+    "showComment": false
+  }
+}
